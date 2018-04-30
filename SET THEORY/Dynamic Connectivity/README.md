@@ -16,3 +16,7 @@ A dynamic connectivity structure is a data structure that dynamically maintains 
 * **Transitive**: if *p* is connected to *q* and *q* is connected to r, then *p* is connected to r.
 
 ![](https://github.com/ExploreNcrack/Algorithm/blob/master/SET%20THEORY/Dynamic%20Connectivity/p1.png)
+</br>
+**Connected Component:**: Maximal set of objects that are mutually connected
+
+
