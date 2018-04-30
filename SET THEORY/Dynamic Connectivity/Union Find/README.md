@@ -1,5 +1,5 @@
 # Union Find data type (API)
-                                              **Class UF**
+                                              Class UF
 * UF(int N)
 * union(int p, int q)
 * connected(int p, int q)
