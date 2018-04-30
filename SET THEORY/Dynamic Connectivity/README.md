@@ -9,7 +9,7 @@ A dynamic connectivity structure is a data structure that dynamically maintains 
 * Union command: connect two objects
 * Find/connected query: is there a path connecting the two objects?
 
-**"is Connected to"** is an equivalent relation:
+**"is Connected to"** is an **equivalent relation**:
 </br>
 * **Reflexive**:  *p* is connected to *p*.
 * **Symmetric**:  if *p* is connected to *q*, then *q* is connected to *p*.
