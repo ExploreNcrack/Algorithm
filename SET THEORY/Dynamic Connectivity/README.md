@@ -8,8 +8,7 @@ A dynamic connectivity structure is a data structure that dynamically maintains 
 **Given a set of N objects:**
 * Union command: connect two objects
 * Find/connected query: is there a path connecting the two objects?
-</br>
-</br>
+
 **"is Connected to"** is an equivalent relation:
 </br>
 * **Reflexive**:  *p* is connected to *p*.
