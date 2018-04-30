@@ -18,5 +18,6 @@ A dynamic connectivity structure is a data structure that dynamically maintains 
 ![](https://github.com/ExploreNcrack/Algorithm/blob/master/SET%20THEORY/Dynamic%20Connectivity/p1.png)
 </br>
 **Connected Component:**: Maximal set of objects that are mutually connected
-
+</br>Any two objects in the set are connected to each other.
+</br>There is no objects outside that is conencted to those objects
 
