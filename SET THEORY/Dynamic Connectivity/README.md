@@ -21,5 +21,6 @@ A dynamic connectivity structure is a data structure that dynamically maintains 
 </br>Any two objects in the set are connected to each other.
 </br>There is no objects outside that is conencted to those objects
 </br>
+![](https://github.com/ExploreNcrack/Algorithm/blob/master/SET%20THEORY/Dynamic%20Connectivity/p2.png)
 </br>
-By using such set property, it will gain efficiency by maintaining connected component and using the property to efficiently answer the query.
+**By using such set property, it will gain efficiency by maintaining connected component and using the property to efficiently answer the query.**
