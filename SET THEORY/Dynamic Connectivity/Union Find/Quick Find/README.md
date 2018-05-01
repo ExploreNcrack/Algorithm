@@ -14,3 +14,8 @@
 * To merge components containing *p* and *q*. Change all entries whose id equals **id[p]** to **id[q]**
 **Cost: O(N)**
 
+## Advantage
+Providing a very efficient way for the **find** operation, very simple data structure is needed to implement 
+
+## Disadvantage
+Not a very optimistic cost for the **Union** operation
