@@ -19,3 +19,6 @@ Providing a very efficient way for the **find** operation, very simple data stru
 
 ## Disadvantage
 Not a very optimistic cost for the **Union** operation
+
+## Example
+![]()
