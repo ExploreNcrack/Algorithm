@@ -5,7 +5,7 @@
 ## Data Structure
 * Integer array id[] of size **N**
 * Interpretation: id[i] is **parent** of i
-* **Root** of i is id[id[id[i]..]]
+* **Root** of i is id[id[id[i]..]] *(Keep going until it does not change (**ensure no cycles**))*
 
 ## Example 
 ![](https://github.com/ExploreNcrack/Algorithm-and-Data-Structure/blob/master/SET%20THEORY/Dynamic%20Connectivity/Union%20Find/Quick%20Union/quick_union1.png)
