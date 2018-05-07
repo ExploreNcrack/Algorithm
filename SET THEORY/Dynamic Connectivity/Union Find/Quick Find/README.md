@@ -21,4 +21,12 @@ Providing a very efficient way for the **find** operation, very simple data stru
 Not a very optimistic cost for the **Union** operation
 
 ## Example
-![]()
+![](https://github.com/ExploreNcrack/Algorithm-and-Data-Structure/blob/master/SET%20THEORY/Dynamic%20Connectivity/Union%20Find/Quick%20Find/quick_find1.png)
+
+![](https://github.com/ExploreNcrack/Algorithm-and-Data-Structure/blob/master/SET%20THEORY/Dynamic%20Connectivity/Union%20Find/Quick%20Find/quick_find2.png)
+
+![](https://github.com/ExploreNcrack/Algorithm-and-Data-Structure/blob/master/SET%20THEORY/Dynamic%20Connectivity/Union%20Find/Quick%20Find/quick_find3.png)
+
+![](https://github.com/ExploreNcrack/Algorithm-and-Data-Structure/blob/master/SET%20THEORY/Dynamic%20Connectivity/Union%20Find/Quick%20Find/quick_find4.png)
+
+![](https://github.com/ExploreNcrack/Algorithm-and-Data-Structure/blob/master/SET%20THEORY/Dynamic%20Connectivity/Union%20Find/Quick%20Find/quick_find5.png)
