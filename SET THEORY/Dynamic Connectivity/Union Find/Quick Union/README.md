@@ -4,8 +4,8 @@
 
 ## Data Structure
 * Integer array id[] of size **N**
-* Interpretation: id[i] is parent of i
-* Root of i is id[id[id[i]..]]
+* Interpretation: id[i] is **parent** of i
+* **Root** of i is id[id[id[i]..]]
 
 ## Example 
 ![]()
